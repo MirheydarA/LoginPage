@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+900514ec92f62ce0290fca6fa064ba1c9efd693d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
